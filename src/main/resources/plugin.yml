@@ -1,6 +1,6 @@
 name: Invsee
 version: '${project.version}'
-main: me.simonfoy.invsee.Invsee
+main: me.simonfoy.invsee.InvSee
 api-version: 1.19
 authors: [ Simon ]
 website: simonfoy.me
